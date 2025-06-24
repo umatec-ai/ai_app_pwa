@@ -1,0 +1,21 @@
+{
+  "name": "AI Agent 3D",
+  "short_name": "AI Agent",
+  "start_url": "agent_app_pwa.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#00bcd4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/assistant_192dp.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/assistant_512dp.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
